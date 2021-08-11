@@ -1,2 +1,9 @@
-# FODmodel
-Model of Environmental Membrane Field for Transmembrane Proteins
+# Model of Environmental Membrane Field for Transmembrane Proteins
+
+Tested on Ubuntu 18.04
+
+In order to calculate the FOD model:
+1. Put all your PDB files to "data" folder
+2. Run bash script run.sh
+3. After a while your results will be available in the "results" folder
+
